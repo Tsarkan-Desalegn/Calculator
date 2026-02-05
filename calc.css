@@ -1,0 +1,156 @@
+html{
+    background-color: black;
+}
+
+#main-container{
+    border: 2px solid grey;
+    height: 750px;
+    margin-left: 280px;
+    margin-right: 407px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 12px 12px 52px 12px grey;
+    border-radius: 50px;
+    background-color:  rgb(26, 26, 26);
+}
+input{
+    border-radius: 50px;
+    height: 100px;
+    width: 800px;
+    color: white;
+    background-color:  rgb(26, 26, 26);
+    font-size: 40px;
+}
+#calculator-container{
+   display: flex;
+   height: 550px;
+   background-color: rgb(26, 26, 26);
+   border-radius: 50px;
+}
+#first-button{
+    justify-content: first baseline;
+    gap: 12px;
+}
+button{
+    margin: 12px;
+     padding: 29px;
+    border-radius: 100pc;
+    background-color: rgb(89, 86, 86);
+    color: white;
+    border: 23px;
+    font-size: 30px;
+}
+.operand-btn{
+    background-color: rgb(221, 161, 19);
+    color: white;
+    font-weight: bold;
+}
+#clear-btn{
+    color: rgb(174, 9, 9);
+}
+.operand-btn:hover{
+ background-color:  rgb(41, 201, 9);
+}
+.operand-btn:active{
+ background-color: rgb(148, 148, 148);
+}
+.btn:hover{
+    background-color: rgb(114, 125, 132);
+}
+.btn:active{
+    background-color: rgb(212, 212, 212);
+}
+#clear-btn:hover{
+   background-color: rgb(114, 125, 132);
+}
+#clear-btn:active{
+     background-color: rgb(212, 212, 212);
+}
+.calculateResult{
+     background-color:  rgb(41, 201, 9);
+}
+.calculateResult:active{
+     background-color:  rgb(72, 75, 72);
+}
+.percentage-btn{
+    background-color: rgb(221, 161, 19);
+}
+.percentage-btn:active{
+   background-color: rgb(212, 212, 212); 
+}
+.percentage-btn:hover{
+    background-color:rgb(41, 201, 9);
+}
+#delete-btn{
+    background-color: rgb(221, 161, 19);
+}
+#delete-btn:hover{
+    background-color: rgb(114, 125, 132);
+}
+#delete-btn:active{
+    background-color: rgb(212, 212, 212);
+}
+.eValue:hover{
+     background-color: rgb(114, 125, 132);
+}
+.eVlue:active{
+  background-color: rgb(212, 212, 212);
+}
+.cubeRoot-btn:hover{
+      background-color: rgb(114, 125, 132);
+}
+.cubeRoot-btn:active{
+ background-color: rgb(212, 212, 212);
+}
+.calculateFactorial:hover{
+  background-color: rgb(114, 125, 132);
+}
+.squareRoot-btn:hover{
+  background-color: rgb(114, 125, 132);
+}
+.calculateSin:hover{
+  background-color: rgb(114, 125, 132);
+}
+.calculateCos:hover{
+  background-color: rgb(114, 125, 132);
+}
+.calculateTan:hover{
+  background-color: rgb(114, 125, 132);
+}
+.calculateOverNum:hover{
+  background-color: rgb(114, 125, 132);
+}
+.LogValue:hover{
+  background-color: rgb(114, 125, 132);
+}
+.lnValue:hover{
+  background-color: rgb(114, 125, 132);
+}
+.absoluteValue:hover{
+  background-color: rgb(114, 125, 132);
+}
+.exponentToX:hover{
+  background-color: rgb(114, 125, 132);
+}
+.square-btn:hover{
+  background-color: rgb(114, 125, 132);
+}
+.piValue:hover{
+  background-color: rgb(114, 125, 132);
+}
+.powerOfNumber:hover{
+  background-color: rgb(114, 125, 132);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
