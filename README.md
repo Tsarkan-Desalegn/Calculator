@@ -50,6 +50,7 @@ calc.js      # JavaScript logic (event listeners, math functions)
 
 ## 🚀 Usage
 
+
 1. **Numbers & Operators**  
    - Click number buttons (`0–9`) to append values to the input field.  
    - Click operator buttons (`+`, `-`, `*`, `÷`) to append operators.  
